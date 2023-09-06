@@ -15,10 +15,13 @@ internal class Program
         if (firstNumber > secondNumber)
         {
             Console.WriteLine("Max: " + firstNumber);
+            Console.WriteLine("Min: " + secondNumber);
         }
         else
         {
             Console.WriteLine("Max: " + secondNumber);
+
+            Console.WriteLine("Min: " + firstNumber);
         }
     }
 }
