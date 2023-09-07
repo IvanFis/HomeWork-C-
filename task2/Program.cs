@@ -13,4 +13,4 @@ static void FindMaxValue(int firstNumber, int secondNumber, int thirdNumber) {
         Console.WriteLine(thirdNumber);
     }
 }
-FindMaxValue(100,2,34);
+FindMaxValue(100,2,340);
