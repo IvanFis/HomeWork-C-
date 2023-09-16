@@ -1,0 +1,14 @@
+C:\Users\vania\OneDrive\Рабочий стол\C#\task27\obj\Debug\net7.0\task27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vania\OneDrive\Рабочий стол\C#\task27\obj\Debug\net7.0\task27.AssemblyInfoInputs.cache
+C:\Users\vania\OneDrive\Рабочий стол\C#\task27\obj\Debug\net7.0\task27.AssemblyInfo.cs
+C:\Users\vania\OneDrive\Рабочий стол\C#\task27\obj\Debug\net7.0\task27.csproj.CoreCompileInputs.cache
+C:\Users\vania\OneDrive\Рабочий стол\C#\task27\bin\Debug\net7.0\task27.exe
+C:\Users\vania\OneDrive\Рабочий стол\C#\task27\bin\Debug\net7.0\task27.deps.json
+C:\Users\vania\OneDrive\Рабочий стол\C#\task27\bin\Debug\net7.0\task27.runtimeconfig.json
+C:\Users\vania\OneDrive\Рабочий стол\C#\task27\bin\Debug\net7.0\task27.dll
+C:\Users\vania\OneDrive\Рабочий стол\C#\task27\bin\Debug\net7.0\task27.pdb
+C:\Users\vania\OneDrive\Рабочий стол\C#\task27\obj\Debug\net7.0\task27.dll
+C:\Users\vania\OneDrive\Рабочий стол\C#\task27\obj\Debug\net7.0\refint\task27.dll
+C:\Users\vania\OneDrive\Рабочий стол\C#\task27\obj\Debug\net7.0\task27.pdb
+C:\Users\vania\OneDrive\Рабочий стол\C#\task27\obj\Debug\net7.0\task27.genruntimeconfig.cache
+C:\Users\vania\OneDrive\Рабочий стол\C#\task27\obj\Debug\net7.0\ref\task27.dll

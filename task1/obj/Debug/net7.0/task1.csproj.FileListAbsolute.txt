@@ -1,0 +1,14 @@
+C:\Users\vania\OneDrive\Рабочий стол\C#\task1\bin\Debug\net7.0\task1.exe
+C:\Users\vania\OneDrive\Рабочий стол\C#\task1\bin\Debug\net7.0\task1.deps.json
+C:\Users\vania\OneDrive\Рабочий стол\C#\task1\bin\Debug\net7.0\task1.runtimeconfig.json
+C:\Users\vania\OneDrive\Рабочий стол\C#\task1\bin\Debug\net7.0\task1.dll
+C:\Users\vania\OneDrive\Рабочий стол\C#\task1\bin\Debug\net7.0\task1.pdb
+C:\Users\vania\OneDrive\Рабочий стол\C#\task1\obj\Debug\net7.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vania\OneDrive\Рабочий стол\C#\task1\obj\Debug\net7.0\task1.AssemblyInfoInputs.cache
+C:\Users\vania\OneDrive\Рабочий стол\C#\task1\obj\Debug\net7.0\task1.AssemblyInfo.cs
+C:\Users\vania\OneDrive\Рабочий стол\C#\task1\obj\Debug\net7.0\task1.csproj.CoreCompileInputs.cache
+C:\Users\vania\OneDrive\Рабочий стол\C#\task1\obj\Debug\net7.0\task1.dll
+C:\Users\vania\OneDrive\Рабочий стол\C#\task1\obj\Debug\net7.0\refint\task1.dll
+C:\Users\vania\OneDrive\Рабочий стол\C#\task1\obj\Debug\net7.0\task1.pdb
+C:\Users\vania\OneDrive\Рабочий стол\C#\task1\obj\Debug\net7.0\task1.genruntimeconfig.cache
+C:\Users\vania\OneDrive\Рабочий стол\C#\task1\obj\Debug\net7.0\ref\task1.dll
