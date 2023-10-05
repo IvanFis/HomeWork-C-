@@ -9,5 +9,5 @@ Console.Write("Введите значение m: ");
 int m = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите значение n: ");
 int n = Convert.ToInt32(Console.ReadLine());
-Console.Write($"Функция Аккермана равно { FunctionAkkerman (m, n)} ");
+Console.Write($"Функция Аккермана равна { FunctionAkkerman (m, n)} ");
 
